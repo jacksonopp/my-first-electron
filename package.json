@@ -1,0 +1,8 @@
+{
+  "name": "my-first-electron",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "git@github.com:jacksonopp/my-first-electron.git",
+  "author": "Jackson Oppenheim <jacksonopp@gmail.com>",
+  "license": "MIT"
+}
